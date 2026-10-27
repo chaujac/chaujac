@@ -56,13 +56,12 @@ I am an undergraduate **Computer Science** student at the **University of San Ca
 ---
 
 ### 🚀 Featured Projects
-<div align="center">
+
 
 #### **[Ms. Tesay's – Sales Monitoring and Analytics Dashboard](https://github.com/chaujac)**
 * **Technologies:** PHP, MySQL, HTML, CSS, JavaScript
 * **Description:** Designed and developed a web-based sales monitoring system to organize and track product transactions, implemented structured databases for inventory efficiency, and built dynamic dashboard interfaces.
 
-</div>
 
 ---
 
@@ -111,6 +110,5 @@ I am an undergraduate **Computer Science** student at the **University of San Ca
   </a>
 </p>
 
-**Location:** Talisay City, Metro Cebu
 
 </div>
