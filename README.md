@@ -50,7 +50,7 @@ I am an undergraduate **Computer Science** student at the **University of San Ca
 ---
 
 ### 🏛️ Leadership & Involvement
-* **USC All Access – Undersecretary (Admin Cluster)** *(Current)*
+* **USC All Access – Undersecretary (Admin Cluster)** *(2026)*
   * Active officer contributing to administrative cluster operations and student governance initiatives.
 
 ---
@@ -76,7 +76,7 @@ I am an undergraduate **Computer Science** student at the **University of San Ca
 * **Department of Public Works and Highways (Metro Cebu) – OJT / Work Immersion** *(October 2023 – January 2024)*
   * Maintained organized technical records and supported project documentation.
   * Assisted in tracking project-related information through efficient data encoding.
-* **Innovare: USC Competition Guild – Past Member** *(2024)*
+* **Innovare: USC Competition Guild – Competitive Member** *(2024-2026)*
   * Engaged in competitive computer science challenges and collaborative problem-solving.
 
 ---
