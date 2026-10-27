@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chaujac&theme=dark&background=111827&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8)](https://git.io/streak-stats)
 
-I am an undergraduate **Computer Science** student at the **University of San Carlos**. Passionate about software development, full-stack systems, networking, and machine learning.
+I am an undergraduate **Computer Science** student at the **University of San Carlos**. 
 
 </div>
 
